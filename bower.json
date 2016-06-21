@@ -1,0 +1,16 @@
+{
+  "name": "angular-and-mobile-devices-translations",
+  "authors": [
+    "soledad-fernandez <soledad.fdez@gmail.com>"
+  ],
+  "description": "Create file with translations for angular web applications and mobile applications.",
+  "main": "js/app.js",
+  "keywords": [
+    "translations",
+    "angular",
+    "mobile"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
